@@ -4,7 +4,7 @@
 
 This is a simple Python program that allows users to randomly pick an available room on TryHackMe. It provides options to filter rooms by difficulty and free availability. The program uses TryHackMe's public API to fetch room information.
 
-<div style="text-align: center;">
+<div style="text-align: center">
     <img src="https://github.com/Godoy-png/random-room-tryhackme/assets/107765540/f9f6d579-71fb-40b1-a2dd-fe19899b6b18">
 </div>
 
